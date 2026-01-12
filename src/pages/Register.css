@@ -1,0 +1,13 @@
+/* Register page uses shared styles from Login.css */
+@import './Login.css';
+
+/* Register-specific overrides if needed */
+.auth-card {
+  /* Slightly larger max-width for register form with more fields */
+}
+
+@media (max-width: 480px) {
+  .auth-form {
+    gap: var(--spacing-md);
+  }
+}

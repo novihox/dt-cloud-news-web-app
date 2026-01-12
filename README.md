@@ -75,7 +75,7 @@ npm run dev
 ```
 http://localhost:vitehangiportuaçarsa
 ```
-
+--
 ## Proje Yapısı
 
 ```
@@ -121,9 +121,6 @@ dtcloud-news-web/
 | `npm start` | API sunucusunu başlatır (prodüksiyon) |
 
 ## 🎨 Ekran Görüntüleri
-
-<img width="1867" height="955" alt="image" src="https://github.com/user-attachments/assets/904239fc-dc42-4051-8043-e33e10aafdb2" />
-<img width="1868" height="944" alt="image" src="https://github.com/user-attachments/assets/a5aaf443-1dee-4422-942b-cd257b5c1353" />
 
 ## 🤝 Katkıda Bulunma
 
