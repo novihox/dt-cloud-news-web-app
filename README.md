@@ -4,7 +4,7 @@ Evet, ismi Al Jazeera'dan esinlendim. Ama merak etmeyin, Katar'dan değil, DT Cl
 
 ## 🎯 Bu Proje Ne İşe Yarıyor?
 
-DT Jazeera, kullanıcıların ilgi alanlarına göre kişiselleştirilmiş haber akışı sunan modern bir web uygulamasıdır. Teknoloji, spor, sağlık, bilim... Giriş yapmadan da haberleri okuyabilirsin ama hesap açarsan sana özel bir deneyim sunuyoruz. (Biz böyle kandırıyoruz kullanıcıları 😄)
+DT Jazeera, kullanıcıların ilgi alanlarına göre kişiselleştirilmiş haber akışı sunan modern bir web uygulamasıdır. Teknoloji, spor, sağlık, bilim... Giriş yapmadan da haberleri okuyabilirsin ama hesap açarsan sana özel bir deneyim sunuyoruz.
 
 ## Özellikler
 
